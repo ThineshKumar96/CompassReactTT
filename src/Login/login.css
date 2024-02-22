@@ -1,0 +1,42 @@
+h4{
+    color:white
+  }
+.boatusername{
+  display: inline-block
+}
+.boatpassword{
+  display: inline-block
+}
+.username {
+    padding: 4px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+.password {
+    padding: 4px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+.SumbitButton {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    .SumbitButton:hover {
+        box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
