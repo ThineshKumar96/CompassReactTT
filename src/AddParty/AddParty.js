@@ -33,6 +33,7 @@ function AddParty({ onPartyCreated }) {
             Alert("Please fillup")
         }
         alert('UserCreated');
+        
     }
 
     return (
